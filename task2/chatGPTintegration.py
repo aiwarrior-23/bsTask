@@ -10,7 +10,7 @@ CORS(app)
 tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-large")
 model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-large")
 chat_history_ids = None
-openai.api_key = "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"
+openai.api_key = "<HIDDEN>"
 
 
 @app.route('/chat', methods=['POST'])
