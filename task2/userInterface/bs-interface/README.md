@@ -1,6 +1,13 @@
 # Conversational AI and Text to Image Generation
 
-This repository contains a React application that demonstrates conversational AI and text to image generation using OpenAI's API.
+This repository contains a React application that demonstrates conversational AI and text to image generation using OpenAI's API. Given below are some screenshots:
+
+## Screenshots
+
+![Text to Text](./t2t.png)
+
+
+![Text to Image](./t2i.png)
 
 ## Features
 
